@@ -1,0 +1,5 @@
+crudapi\exception\NotFound.class
+crudapi\repository\ClienteRepository.class
+crudapi\CrudApiApplication.class
+crudapi\model\Cliente.class
+crudapi\controller\ClienteController.class
