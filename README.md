@@ -18,7 +18,7 @@ Esse "pequeno" projeto, consistem em uma amostra de API REST CRUD com Spring Boo
   OBSERVAÇÕES: 
  - A porta utilizada no banco de dados é a 3306. Caso necessite usar outra porta, siga o passo-a-passo a seguir: Com o projeto aberto na IDE --> src/main/resources -->  application.properties, modifique a porta no caminho jdbc:mysql://localhost:3306/pessoas.
 
-Feitos todos os passos anteriores, o sistema pronto para ser executado;
+Feitos todos os passos anteriores, o sistema está pronto para ser executado.
 
  - Execute a API REST, e faça os testes por meio do POSTMAN
   ## Comandos
